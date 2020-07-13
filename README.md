@@ -1,14 +1,12 @@
-### Hey! Nice to meet you. :smile:
+# Hey! Nice to meet you. :smile:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jamile-sousa-lima)
+
 
 :raising_hand: Pronouns: She/Her
 
 🔭 I’m currently working on Android Development with Kotlin
 
 🌱 I’m currently learning how to improve my problem solving techniques
-
-📫 How to reach me:
-  - [Linkedin](https://www.linkedin.com/in/jamile-sousa-lima)
-  - [Personal Site](https://www.jamile.dev)
 
 <!--
 **jamilelima/jamilelima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

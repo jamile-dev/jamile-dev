@@ -1,23 +1,22 @@
-# Hey! Nice to meet you. :smile:
+
+<h1 align="center">Hey! Nice to meet you. 👋</h1>
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jamile-sousa-lima)
 
 
-:raising_hand: Pronouns: She/Her
+- I’m currently working on improve my skillset in Android Development, data structures, algorithms and TDD.
 
-🔭 I’m currently working on Android Development with Kotlin
+- I’m open to collaborate on anything free and open source.
 
-🌱 I’m currently learning how to improve my problem solving techniques
+- Let's talk about Android, iOS and Flutter!
 
-<!--
-**jamilelima/jamilelima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- How to reach me: **jamilelima@protonmail.com**
 
-Here are some ideas to get you started:
+- Fun fact: **I love pugs**.
 
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
--  ...
+- Visit my <a href="https://www.jamile.dev" target="_blank">site</a> to know more about me and my work.
 
-- ⚡ Fun fact: ...
--->
+![](https://github-readme-stats.vercel.app/api?username=jamilelima&show_icons=true&hide=contribs&theme=dark)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jamilelima&layout=compact&hide=ruby,css&theme=dark)
+

@@ -10,7 +10,7 @@
 
 - Let's talk about Android, iOS and Flutter!
 
-- How to reach me: **jamilelima@protonmail.com**
+- How to reach me: `jamilelima@protonmail.com`
 
 - Fun fact: **I love pugs**.
 

@@ -16,7 +16,5 @@
 
 - Visit my <a href="https://www.jamile.dev" target="_blank">site</a> to know more about me and my work.
 
-![](https://github-readme-stats.vercel.app/api?username=jamile-dev&show_icons=true&hide=contribs&theme=dark)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jamile-dev&layout=compact&hide=ruby,css&theme=dark)
 

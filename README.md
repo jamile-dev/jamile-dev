@@ -10,8 +10,6 @@
 
 - Let's talk about Android, iOS and Flutter!
 
-- How to reach me: `jamilelima@protonmail.com`
-
 - Fun fact: **I love pugs**.
 
 - Visit my <a href="https://www.jamile.dev" target="_blank">site</a> to know more about me and my work.

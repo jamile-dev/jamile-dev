@@ -10,8 +10,6 @@
 
 - Let's talk about Android, iOS and Flutter!
 
-- Fun fact: **I love pugs**.
-
 - Visit my <a href="https://www.jamile.dev" target="_blank">site</a> to know more about me and my work.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jamile-dev&layout=compact&hide=ruby,css&theme=dark)

@@ -1,8 +1,6 @@
 
 <h1 align="center">Hey! Nice to meet you. 👋</h1>
 
- ![static](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jamilebastos&theme=monokai) 
-
 # Languages & Tools ⚒️
 
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
